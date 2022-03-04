@@ -18,3 +18,4 @@ data preparation, model selection, evaluation, and recommendations
 
 
 Uncovering and adopting untapped  streaming consumers on Public Deloitte Survey Data
+https://www2.deloitte.com/us/en/insights/industry/technology/digital-media-trends-consumption-habits-survey/summary.html
